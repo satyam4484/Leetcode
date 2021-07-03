@@ -5,7 +5,7 @@ ___
 |Sr. no | Problems Link     | Difficulty   | Solution link  | 
 |:-------:|:------------------:|:------------:|:---------------:|
 |  **1**|[Two sum](https://leetcode.com/problems/two-sum/)|Easy |[link](https://github.com/satyam4484/Leetcode/blob/master/Solutions/Two_sum.cpp) |
-|  **2**|[ Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|Medium |[link](https://github.com/satyam4484/Leetcode/blob/master/Solutions/Add_tow_numbers.cpp) |
+|  **2**|[ Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| Medium |[link](https://github.com/satyam4484/Leetcode/blob/master/Solutions/Add_tow_numbers.cpp) |
 |  **3**|[ Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Medium |[link](https://github.com/satyam4484/Leetcode/blob/master/Solutions/Longest_Substring_Without_Repeating_Characters.cpp) |
 |  **4**|[ Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|Hard |[link](https://github.com/satyam4484/Leetcode/blob/master/Solutions/Median_Array.cpp) |
 |  **6**|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|Medium |[link](https://github.com/satyam4484/Leetcode/blob/master/Solutions/Zig_zack.cpp) |
