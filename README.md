@@ -1,9 +1,9 @@
-# Leetcode
-Contains the soln of all problem solved by me in leetcode 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1A93F7&size=25&center=true&width=600&lines=Welcome+to+Leetcode+solutions+)](https://git.io/typing-svg)
 
-____________________________________________________________________________________________________________
+___
+ 
 |Sr. no | Problems Link     | Difficulty   | Solution link  | 
-|-------|:------------------:|:------------:|:---------------:|
+|:-------:|:------------------:|:------------:|:---------------:|
 |  **1**|[Two sum](https://leetcode.com/problems/two-sum/)|Easy |[link](https://github.com/satyam4484/Leetcode/blob/master/Solutions/Two_sum.cpp) |
 |  **2**|[ Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|Medium |[link](https://github.com/satyam4484/Leetcode/blob/master/Solutions/Add_tow_numbers.cpp) |
 |  **3**|[ Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Medium |[link](https://github.com/satyam4484/Leetcode/blob/master/Solutions/Longest_Substring_Without_Repeating_Characters.cpp) |
@@ -22,3 +22,5 @@ ________________________________________________________________________________
 |  **18**|[4Sum](https://leetcode.com/problems/4sum/)|Medium|[link](https://github.com/satyam4484/Leetcode/blob/master/Solutions/4sum.cpp) |
 |  **19**|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Medium|[link](https://github.com/satyam4484/Leetcode/blob/master/Solutions/remove_nth_node.cpp) |
 |  **20**|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|Easy|[link](https://github.com/satyam4484/Leetcode/blob/master/Solutions/valid_parentheses.cpp) |
+  
+ 
